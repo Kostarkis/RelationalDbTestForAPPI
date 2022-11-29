@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelationalDbTestForAPPI", "RelationalDbTestForAPPI\RelationalDbTestForAPPI.csproj", "{5F816F9D-A2B5-45A3-92E7-0567FE1F27DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F816F9D-A2B5-45A3-92E7-0567FE1F27DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F816F9D-A2B5-45A3-92E7-0567FE1F27DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F816F9D-A2B5-45A3-92E7-0567FE1F27DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F816F9D-A2B5-45A3-92E7-0567FE1F27DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA81A785-F80D-458E-8834-BEA509C13D11}
+	EndGlobalSection
+EndGlobal
